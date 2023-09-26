@@ -5,4 +5,4 @@ estou estudando linguagens de programação
 estou estudando no [alura]
 sou torcedor fiel do coritiba football club 🇳🇬
 
-![](https://media.tenor.com/yAlmYnOgfrwAAAAM/emopickles-emo.gif)
+![](https://tenor.com/pt-BR/view/buddha-purnima-gif-13881866622434501181)
